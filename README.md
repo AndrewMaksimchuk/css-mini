@@ -1,0 +1,13 @@
+# Frequently used css properties
+
+- RESET
+- CENTERED
+- EFFECTS
+- SIZE
+- DISPLAY
+- POSITION
+- PADDING
+- MARGIN
+- BORDER-RADIUS
+- TEXT
+- OPACITY
